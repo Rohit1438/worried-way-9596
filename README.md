@@ -21,7 +21,7 @@ We have tried our best to make a fully-functional clone of Ajio.com website that
 
 <a href="">![Logo](https://i.postimg.cc/RFRcv7p4/sslogo.png)</a>
 
-
+[![Screenshot-2023-04-03-115754.png](https://i.postimg.cc/W4wn43Kp/Screenshot-2023-04-03-115754.png)](https://postimg.cc/sB1S6Vsb)
 
 
 
