@@ -1,6 +1,7 @@
 import React from 'react'
 import { HomeCarousel1 } from '../homepage/homecards/homecarousel1'
-import {Input,Link, Button,PinInputField } from '@chakra-ui/react'
+import {Link} from "react-router-dom"
+import {Input, Button,PinInputField } from '@chakra-ui/react'
 const loginstyle={
 
     padding:"0px 20px 0px",
@@ -44,7 +45,7 @@ export const LoginPage = () => {
     <p style={{padding:"0px 20px 0px",}}>fill the OTP</p>
     <div style={{padding:"20px 20px 0px"}}>
 
-       <Button style={{color:"#F91D79",width:"100px",fontSize:"20px"}} colorScheme='pink' variant='outline'>Login</Button>
+       <Button style={{color:"#F91D79",width:"100px",fontSize:"20px"}} colorScheme='pink' variant='outline'><Link to="/">Login</Link></Button>
     </div>
     <div style={
     {padding:"20px 20px 0px"}
