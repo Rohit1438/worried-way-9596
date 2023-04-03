@@ -33,7 +33,7 @@ const AllLinks=[
 export const Navbar=()=>{
     const btnRef = React.useRef()
 return (
-<div>
+<div >
 <div className="mainContainer" style={{display:"flex", justifyContent:"space-between"}}>
 
 <div className="logo" style={{width:"150px"}}><img style={{height:"100%",padding:"0px 20px 0px"}} src="https://i.postimg.cc/RFRcv7p4/sslogo.png" alt="ad" />
