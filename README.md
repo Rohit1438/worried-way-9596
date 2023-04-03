@@ -47,14 +47,14 @@ We have tried our best to make a fully-functional clone of Ajio.com website that
 1. A user can register his account on the website.
 2. User can log in using credentials given during registration.
 3. User can search for various types of items.
-5. User can make payments and succcessfully purchase their items.
+4. User can make payments and succcessfully purchase their items.
 
 
 
 
 ## Future Planning
 
-In the future, we can integrate more categories and more cards. We can also integrate a user page with some options for the user to allow push notifications and see an overview of their progress. 
+In the future, i will implement the search functionalities and i also can integrate more categories and more cards ,I can also integrate a user page with some options for the user to allow push notifications and see an overview of their progress. 
 
 
 
