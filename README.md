@@ -2,7 +2,7 @@
 Ajio clone
 # ProjectName
 
-<ahref="">![Logo](https://i.postimg.cc/RFRcv7p4/sslogo.png)</a>
+<a href="">![Logo](https://i.postimg.cc/RFRcv7p4/sslogo.png)</a>
 
 
 
