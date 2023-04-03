@@ -20,9 +20,6 @@ We have tried our best to make a fully-functional clone of Ajio.com website that
 
 
 
-[![Screenshot-2023-04-03-115754.png](https://i.postimg.cc/W4wn43Kp/Screenshot-2023-04-03-115754.png)](https://postimg.cc/sB1S6Vsb)
-
-
 
 
 
@@ -37,7 +34,6 @@ We have tried our best to make a fully-functional clone of Ajio.com website that
 <p float="left">
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100" height="100">
     <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" width="100" height="100">
-
        <img src="https://www.ictdemy.com/images/1/css/bootstrap/bootstrap-stack.png" width="100" height="100">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76aVIo4u18ZBAVWU79QkDQ6uvKUjF4leJ7g&usqp=CAU" width="100" height="100">
    <img src="https://blog.logrocket.com/wp-content/uploads/2021/04/optimize-react-native-performance.png" width="100" height="100">
