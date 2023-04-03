@@ -17,7 +17,7 @@ We have tried our best to make a fully-functional clone of Ajio.com website that
 
 <a href="">![Logo](https://lh6.googleusercontent.com/ubT3lV7WD8g8W_WGJM2T8WS7-gVila59iVrxVCcbF55e7a9-lhE8Tqho52egWWXotSpBE5dNWTSfjANqxKvhfpP_uW938asNWRFwuvr5wdTmswXmEqstzyDWKILPVb1mQUn4tILJ)</a>
 
-
+[![Screenshot-2023-04-03-115754.png](https://i.postimg.cc/W4wn43Kp/Screenshot-2023-04-03-115754.png)](https://postimg.cc/sB1S6Vsb)
 
 <a href="">![Logo](https://i.postimg.cc/RFRcv7p4/sslogo.png)</a>
 
