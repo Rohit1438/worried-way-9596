@@ -26,7 +26,7 @@ We have tried our best to make a fully-functional clone of Ajio.com website that
 
 
 
-<a href="">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNi6mSjN6cj0u3GlGDhglBgRFXJ8kmp3Kvkg&usqp=CAU)</a>
+<a href="">![Logo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNi6mSjN6cj0u3GlGDhglBgRFXJ8kmp3Kvkg&usqp=CAU](https://i.postimg.cc/RFRcv7p4/sslogo.png))</a>
 
 
 
