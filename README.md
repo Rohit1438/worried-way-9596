@@ -8,10 +8,9 @@ Ajio clone
 ## Description
 
 
-TMetric is time tracking software operated by TMetric team, headquartered in Prague, Czech Republic, that offers time tracking service for freelancers and small business owners who want to optimize their business processes and increase personal productivity.
+Fashify is fashion brand ,sells differenet types of garmental clothes and other fashion accesories like  shirts,t-shirts,loungries etc.
 
-
-We have tried our best to make a fully-functional clone of Tmetric.com website that provides a minimal user experience where users can roam around and Assigned  their desired projects. 
+We have tried our best to make a fully-functional clone of Ajio.com website that provides a minimal user experience where users can roam around and Assigned  their desired projects. 
 ### Quick Preview 
 
 ### Live Demo -
@@ -20,7 +19,13 @@ We have tried our best to make a fully-functional clone of Tmetric.com website t
 
 
 
-<a href="">![Logo](https://biz30.timedoctor.com/images/2020/07/tmetric-alternatives.jpg)</a>
+<a href="">![Logo](https://i.postimg.cc/RFRcv7p4/sslogo.png)</a>
+
+
+
+
+
+
 <a href="">![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNi6mSjN6cj0u3GlGDhglBgRFXJ8kmp3Kvkg&usqp=CAU)</a>
 
 
